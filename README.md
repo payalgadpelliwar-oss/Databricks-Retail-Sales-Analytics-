@@ -26,7 +26,7 @@ This repository contains SQL queries for the following tasks:
 4. Monthly Sales Trend
 5. Product Category Contribution
 
-##Implementation
+## Implementation
 
 -Organized the sales table using Unity Catalog.
 -Explored the dataset and its columns.
@@ -34,34 +34,34 @@ This repository contains SQL queries for the following tasks:
 -Used Databricks Genie to explore business questions in natural language.
 -Created and published an interactive AI/BI dashboard.
 
-##Dashboard Features
+## Dashboard Features
 
-KPI Cards
+## KPI Cards
 
 -Total Sales
 -Total Quantity Sold
 -Total Records
 -Distinct Products
 
-##Visualizations
+## Visualizations
 
 -Sales by Region
 -Top 5 Products by Sales
 -Monthly Sales Trend
 -Sales by Product Category
 
-##Interactive Filters
+## Interactive Filters
 
 -Region
 -Product Category
 -Customer Type
 -Sales Channel
 
-##Key Learnings
+## Key Learnings
 
 This project provided hands-on experience in SQL analytics, data organization, AI-assisted data exploration, and interactive dashboard development.
 
-##Author
+## Author
 
 Completed as part of the Databricks learning assignment at Innomatics Research Labs.
 ﻿
